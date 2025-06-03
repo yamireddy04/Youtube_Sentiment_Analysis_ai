@@ -8,9 +8,9 @@ Converts text to numerical data using TF-IDF or word embeddings
 Trains sentiment analysis models like Logistic Regression, SVM, or deep learning models
 Analyzes and visualizes overall sentiment trends for specific videos
 Helps content creators and analysts understand viewer engagement
-Technologies Used
 
-Python :
+Technologies Used : 
+Python 
 NLP Libraries: NLTK / spaCy
 Machine Learning: scikit-learn / TensorFlow / Keras
 API: YouTube Data API v3
