@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Virtual environments
+env/
+.venv/
+ENV/
+venv/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Data files (usually large)
+data/
+*.csv
+*.tsv
+*.json
+
+# Trained models
+models/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Logs and results
+*.log
+*.out
+*.txt
+results/
+
+# Cache and temp files
+*.bak
+*.tmp
+*.swp
+
+# Google API credentials (if any)
+client_secret_*.json
+token_*.json
